@@ -1,4 +1,4 @@
-@rem this program is for making the a built in screen saver into your background
+@rem this program is for making the built in screen saver into your background
 
 
 @echo off 
